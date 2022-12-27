@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(113, 182, 24);
+}
+.ingredients {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border: 5px solid rgb(252, 250, 252);
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+    font-family: 'Acme', sans-serif;
+    font-size: 20px;
+}
+.ingredients-table {
+    border: 5px solid rgb(0, 0, 0);
+    margin: 0 auto;
+    color: rgb(255, 255, 255);
+
+}
+.heading3 {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    text-align: center;
+}
+instructions {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border: 5px solid rgb(238, 6, 226);
+    width: 50%;
+    margin: 0 auto;
+    font-family: 'Patrick Hand', cursive;   
+}
+.instructions ol {
+    border: 5px solid rgb(0, 0, 0);
+    width: 50%;
+    margin: 0 auto;
+    color: rgb(244, 248, 244);
+    font-size: 25px;
+}
+.footer{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Grechen Fuemen', cursive;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
